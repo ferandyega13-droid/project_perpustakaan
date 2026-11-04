@@ -123,16 +123,16 @@ project_perpustakaan/
 *(Untuk menambahkan screenshot di GitHub: drag & drop gambar screenshot kamu langsung ke dalam editor file README.md ini saat mengedit di GitHub)*
 
 ### 1. Halaman Login
-![Login Page](<img width="1917" height="965" alt="Screenshot 2026-11-04 202642" src="https://github.com/user-attachments/assets/bfb8581d-79b5-4138-9422-f7f97cd5a08d" />)
+(<img width="1917" height="965" alt="Screenshot 2026-11-04 202642" src="https://github.com/user-attachments/assets/bfb8581d-79b5-4138-9422-f7f97cd5a08d" />)
 
 ### 2. Dashboard - Akses Admin (Full CRUD)
-![Dashboard Admin](<img width="1917" height="966" alt="Screenshot 2026-11-04 202729" src="https://github.com/user-attachments/assets/cd0a506b-9360-41a0-9064-0013b3db9329" />)
+(<img width="1917" height="966" alt="Screenshot 2026-11-04 202729" src="https://github.com/user-attachments/assets/cd0a506b-9360-41a0-9064-0013b3db9329" />)
 
 ### 3. Dashboard - Akses Pengunjung (Read-Only)
-![Dashboard Pengunjung](<img width="1917" height="967" alt="Screenshot 2026-11-04 202802" src="https://github.com/user-attachments/assets/f9b0cc16-d7fb-4d6c-bfa3-87ab115e980b" />)
+(<img width="1917" height="967" alt="Screenshot 2026-11-04 202802" src="https://github.com/user-attachments/assets/f9b0cc16-d7fb-4d6c-bfa3-87ab115e980b" />)
 
 ### 4. Form Tambah & Upload Sampul Buku
-![Form Tambah](<img width="1917" height="967" alt="Screenshot 2026-11-04 202828" src="https://github.com/user-attachments/assets/7f5d13a2-4272-4da7-889a-a78cf06669b9" />)
+(<img width="1917" height="967" alt="Screenshot 2026-11-04 202828" src="https://github.com/user-attachments/assets/7f5d13a2-4272-4da7-889a-a78cf06669b9" />)
 
 ---
 *Dibuat untuk memenuhi Tugas Terstruktur Mata Kuliah Pemrograman Web.*
