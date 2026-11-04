@@ -8,7 +8,7 @@ Repositori ini berisi *source code* untuk Tugas Terstruktur Pemrograman Web: **P
 ## 👨‍💻 Identitas Mahasiswa
 
 * **Nama:** Ferandy Ega Putra Pratama
-* **NPM / NIM:** [Isi NPM/NIM Kamu]
+* **NPM / NIM:** 2513020083
 * **Program Studi:** Sistem Informasi
 * **Mata Kuliah:** Pemrograman Web
 
@@ -99,8 +99,6 @@ project_perpustakaan/
 ├── proses_edit.php       # Query Update & Penggantian File Gambar
 ├── hapus_buku.php        # Query Delete & Unlink File Gambar Fisik
 ├── logout.php            # Hapus Session & Cookie
-├── db_perpustakaan.sql   # File Ekspor Database MySQL
-└── README.md             # Dokumentasi Proyek
 ```
 
 ---
