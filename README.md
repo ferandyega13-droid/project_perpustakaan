@@ -16,8 +16,7 @@ Repositori ini berisi *source code* untuk Tugas Terstruktur Pemrograman Web: **P
 
 ## 🎥 Video Demo Aplikasi
 
-[![Video Demo YouTube](https://youtu.be/iOB8Wp-AHMk)  
-*(Ganti link `https://youtube.com/...` di atas dengan link video YouTube demo aplikasi kamu)*
+https://youtu.be/iOB8Wp-AHMk  
 
 ---
 
